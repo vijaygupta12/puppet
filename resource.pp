@@ -1,6 +1,9 @@
-package {'mysql':
+#package {'mysql':
+#ensure => installed,
+#}
+
+package {'tcpdump':
 ensure => installed,
 }
-
 
 
