@@ -1,0 +1,6 @@
+package {'mysql':
+ensure => installed,
+}
+
+
+
